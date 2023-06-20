@@ -1,3 +1,5 @@
+![51XcNOKkWmL _AC_UF1000,1000_QL80_](https://github.com/GXtechnic/.github/assets/75862002/f1a7039d-03d7-4552-b99b-9b5648388ddc)
+
 ## Welcome to our Team GXtechnic Github Organization!
 
 This Organization is for team GXtechnic final group project for ops-301d8. Here you can find out more about the scenerio we were given and the problem domain. There are three repositories for this organization. We have the Documentations repository, where you will find all the documentation that is part of this project. The Scripts repository contains our scripts we used for this project. The presentations repo contains a pdf of our slideshow as well as a link to the slideshow on google docs. The video of our presentation will be added to that repository once available.
