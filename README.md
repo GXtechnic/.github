@@ -44,7 +44,7 @@ Your team has been assigned to prototype the process of integrating these new co
 
 ### Project Management
 
-[Trello Board](https://trello.com/b/vUcQohwr/project-management](https://trello.com/b/C9WEZJRe/team1)
+[[Trello Board](https://trello.com/b/vUcQohwr/project-management](https://trello.com/b/C9WEZJRe/team1)](https://trello.com/b/C9WEZJRe/team1)
 
 
 <br>
