@@ -1,4 +1,5 @@
 <img width="300" alt="Team GXtechnic" src="https://github.com/GXtechnic/.github/assets/75862002/f1a7039d-03d7-4552-b99b-9b5648388ddc">
+![Screenshot 2023-06-19 202546](https://github.com/GXtechnic/.github/assets/75862002/1717b1f3-4699-46e7-a52b-9ad6570b7ec7)
 
 ## Welcome to our Team GXtechnic Github Organization!
 
