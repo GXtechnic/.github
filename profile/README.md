@@ -4,10 +4,14 @@
 
 ## Welcome to our Team GXtechnic Github Organization!
 
-This Organization is for team GXtechnic final group project for ops-301d8. Here you can find out more about the scenerio we were given and the problem domain. There are three repositories for this organization. We have the Documentations repository, where you will find all the documentation that is part of this project. The Scripts repository contains our scripts we used for this project. The Presentations repo contains a .pdf of our slideshow as well as a link to the slideshow on Google Drive. The video of our presentation will be added to that repository once available.
+This Organization is for team GXtechnic final group project for ops-301d8. Here you can find out more about our project. There are three repositories for this organization:
+
+* Documentation - All the documentation that is part of this project is stored here. 
+* Scripts - specifically contains all scripts that we created for this project. 
+* Presentations - contains a .pdf of our project presentation slideshow and houses a video link of our completed presentation.
 
 
-Below you will find information and links for our members, repositories and any related resources and material.  
+Below you will find information about the problem domain that we are tasked with solving, and information on our members, repositories and all related resources and material.  
 
 <br>
 
