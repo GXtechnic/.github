@@ -4,11 +4,13 @@
 
 ## Welcome to our Team GXtechnic Github Organization!
 
-This Organization is for team GXtechnic final group project for ops-301d8. Here you can find out more about our project. There are three repositories for this organization:
+Team GXtechnic presents our Final Project for [Code Fellows'](https://www.codefellows.org/courses/ops-301/networking-and-systems-administration/) Ops-301d8 Networking and Systems Administration Course. Here you can find out more about our project. 
 
-* Documentation - All the documentation that is part of this project is stored here. 
-* Scripts - specifically contains all scripts that we created for this project. 
-* Presentations - contains a .pdf of our project presentation slideshow and houses a video link of our completed presentation.
+There are three repositories for this organization:
+
+* Documentation - All the documentation that is part of this project is stored [here.](https://github.com/GXtechnic/Documentation) 
+* Scripts - All scripts that we created for this project can be found [here.](https://github.com/GXtechnic/Scripts)
+* Presentations - A .pdf copy of our project presentation slide deck, a video link of our completed presentation, and our Network Topology is available to view [here.](https://github.com/GXtechnic/Presentations)
 
 
 Below you will find information about the problem domain that we are tasked with solving, and information on our members, repositories and all related resources and material.  
