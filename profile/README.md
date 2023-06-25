@@ -29,7 +29,6 @@ GreenGenius is a startup that develops AI-powered energy management systems for 
 
 <br>
 
-
 ### GXTechnic Team Members
 
 | Mack Dirks | Ben Hobbs | Justin Dotson  | Marcelo Clark  | Raphael Chookagian |
